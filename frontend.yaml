@@ -16,7 +16,7 @@ spec:
       app: frontend
    spec:
     containers:
-    - image: muthubharathi/flask:${BUILD_NUMBER}
+    - image: muthubharathi740/flask:${BUILD_NUMBER}
       name: frontend
 
 ---
